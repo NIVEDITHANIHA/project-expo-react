@@ -1,1 +1,1 @@
-export const baseUrl = "https://project-expo-node.onrender.com";
+export const baseUrl = "https://projectfair-expo-backend.onrender.com";
